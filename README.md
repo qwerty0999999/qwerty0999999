@@ -7,18 +7,18 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://www.rijalulfikri.my.id/">
-          <img src="https://img.shields.io/badge/🌐%20Website-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Website" width="100%"/>
+          <img src="https://img.shields.io/badge/Website-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Website" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/qwerty0999999">
-          <img src="https://img.shields.io/badge/🐙%20GitHub-qwerty0999999-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
+          <img src="https://img.shields.io/badge/GitHub-qwerty0999999-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/📍%20Lokasi-Indonesia%20🇮🇩-22c55e?style=for-the-badge&labelColor=0f172a" alt="Lokasi" width="100%"/>
+        <img src="https://img.shields.io/badge/Lokasi-Indonesia-22c55e?style=for-the-badge&labelColor=0f172a" alt="Lokasi" width="100%"/>
       </td>
       <td width="50%" align="center">
         <img src="https://komarev.com/ghpvc/?username=qwerty0999999&style=for-the-badge&color=60a5fa&label=Profile+Views&labelColor=0f172a" alt="Profile Views" width="100%"/>
@@ -122,7 +122,7 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
   <table>
     <tr>
       <td width="50%" valign="top">
-        <strong>🎵 Musik Nexsus</strong><br/>
+        <strong>Musik Nexsus</strong><br/>
         <sub>TypeScript • Web Player • Audio API • Modern UI</sub>
         <br/><br/>
         Aplikasi music player berbasis web dengan antarmuka modern. Mendukung pemutaran audio, kontrol playlist, dan tampilan yang responsif dengan desain yang elegan.
@@ -130,7 +130,7 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
         <a href="https://github.com/qwerty0999999/Musik-Nexsus">→ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
-        <strong>🌐 Portfolio Website</strong><br/>
+        <strong>Portfolio Website</strong><br/>
         <sub>Next.js • TypeScript • Supabase • GitHub Pages</sub>
         <br/><br/>
         Website portofolio personal bergaya OS futuristik yang menampilkan profil, skill, dan proyek. Deployed secara live.
@@ -140,7 +140,7 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <strong>⏱️ Pomodoro Timer</strong><br/>
+        <strong>Pomodoro Timer</strong><br/>
         <sub>TypeScript • Timer App • Productivity Tool</sub>
         <br/><br/>
         Aplikasi Pomodoro timer untuk meningkatkan produktivitas kerja. Dilengkapi dengan sesi kerja, istirahat pendek, dan istirahat panjang yang dapat dikustomisasi.
@@ -148,7 +148,7 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
         <a href="https://github.com/qwerty0999999/pomodoro">→ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
-        <strong>🤖 Neng Fika (WA Bot)</strong><br/>
+        <strong>Neng Fika (WA Bot)</strong><br/>
         <sub>Node.js • Gemini AI • Supabase • WhatsApp</sub>
         <br/><br/>
         Bot WhatsApp berbasis AI dengan persona unik. Mampu berkomunikasi natural, menjawab pertanyaan, dan mendukung sistem pelatihan mandiri oleh admin.
@@ -158,7 +158,7 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <strong>📸 Photo Booth Web</strong><br/>
+        <strong>Photo Booth Web</strong><br/>
         <sub>HTML • CSS • JavaScript • Camera API</sub>
         <br/><br/>
         Aplikasi photo booth berbasis web yang memanfaatkan kamera browser. Mendukung pengambilan foto langsung dan berbagai tampilan frame yang menarik.
@@ -166,7 +166,7 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
         <a href="https://github.com/qwerty0999999/Photo-Booth-Web">→ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
-        <strong>📊 Web Laporan Kerja</strong><br/>
+        <strong>Web Laporan Kerja</strong><br/>
         <sub>HTML • CSS • JavaScript • Dashboard</sub>
         <br/><br/>
         Aplikasi web untuk melihat dan mengelola laporan pekerjaan. Dirancang dengan tampilan yang bersih dan mudah digunakan untuk monitoring data pekerjaan.
@@ -208,12 +208,12 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
     <tr>
       <td width="50%" align="center">
         <a href="https://www.rijalulfikri.my.id/">
-          <img src="https://img.shields.io/badge/🌐%20Portfolio-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Portfolio" width="100%"/>
+          <img src="https://img.shields.io/badge/Portfolio-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Portfolio" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/qwerty0999999">
-          <img src="https://img.shields.io/badge/🐙%20GitHub-Follow%20Me-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
+          <img src="https://img.shields.io/badge/GitHub-Follow%20Me-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
         </a>
       </td>
     </tr>
