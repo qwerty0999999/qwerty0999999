@@ -6,19 +6,19 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <a href="https://rijalulfikri.github.io">
-          <img src="https://img.shields.io/badge/🌐%20Website-rijalulfikri.github.io-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Website" width="100%"/>
+        <a href="https://www.rijalulfikri.my.id/">
+          <img src="https://img.shields.io/badge/ðŸŒ%20Website-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Website" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/qwerty0999999">
-          <img src="https://img.shields.io/badge/🐙%20GitHub-qwerty0999999-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
+          <img src="https://img.shields.io/badge/ðŸ™%20GitHub-qwerty0999999-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/📍%20Lokasi-Indonesia%20🇮🇩-22c55e?style=for-the-badge&labelColor=0f172a" alt="Lokasi" width="100%"/>
+        <img src="https://img.shields.io/badge/ðŸ“%20Lokasi-Indonesia%20ðŸ‡®ðŸ‡©-22c55e?style=for-the-badge&labelColor=0f172a" alt="Lokasi" width="100%"/>
       </td>
       <td width="50%" align="center">
         <img src="https://komarev.com/ghpvc/?username=qwerty0999999&style=for-the-badge&color=60a5fa&label=Profile+Views&labelColor=0f172a" alt="Profile Views" width="100%"/>
@@ -46,19 +46,19 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
     <tr>
       <td width="33.33%" valign="top">
         <strong>Frontend Development</strong><br/>
-        <sub>HTML5 • CSS3 • JavaScript • TypeScript • Responsive Design</sub>
+        <sub>HTML5 â€¢ CSS3 â€¢ JavaScript â€¢ TypeScript â€¢ Responsive Design</sub>
         <br/><br/>
-        Membangun tampilan web yang menarik, responsif, dan ramah pengguna — dari struktur HTML yang semantik hingga animasi CSS dan interaksi JavaScript yang halus.
+        Membangun tampilan web yang menarik, responsif, dan ramah pengguna â€” dari struktur HTML yang semantik hingga animasi CSS dan interaksi JavaScript yang halus.
       </td>
       <td width="33.33%" valign="top">
         <strong>Web Application</strong><br/>
-        <sub>Vanilla JS • DOM Manipulation • LocalStorage • Fetch API • REST</sub>
+        <sub>Vanilla JS â€¢ DOM Manipulation â€¢ LocalStorage â€¢ Fetch API â€¢ REST</sub>
         <br/><br/>
         Membuat aplikasi web interaktif seperti music player, pomodoro timer, photo booth, dan dashboard berbasis web yang fungsional dan menyenangkan digunakan.
       </td>
       <td width="33.33%" valign="top">
         <strong>Bot & Automation</strong><br/>
-        <sub>Node.js • WhatsApp Bot • AI Integration • Supabase • Gemini API</sub>
+        <sub>Node.js â€¢ WhatsApp Bot â€¢ AI Integration â€¢ Supabase â€¢ Gemini API</sub>
         <br/><br/>
         Mengembangkan bot WhatsApp berbasis AI yang mampu berkomunikasi natural, menjawab pertanyaan, dan menjalankan perintah administratif secara otomatis.
       </td>
@@ -71,45 +71,34 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
 ## Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,git,github,vscode,vercel,supabase,figma" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,css,nodejs,supabase,postgres,git,github,vscode,vercel,figma" alt="Tech Stack" />
   <br/><br/>
   <table>
     <tr>
-      <td width="22%" valign="top" align="left"><strong>Languages</strong></td>
+      <td width="22%" valign="top" align="left"><strong>Core Framework</strong></td>
       <td valign="top" align="left">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" alt="JavaScript"/>
       </td>
     </tr>
     <tr>
-      <td width="22%" valign="top" align="left"><strong>Frontend & UI</strong></td>
+      <td width="22%" valign="top" align="left"><strong>Styling & UI</strong></td>
       <td valign="top" align="left">
-        <img src="https://img.shields.io/badge/Responsive_Design-0F766E?style=flat-square&logo=css3&logoColor=white" alt="Responsive"/>
-        <img src="https://img.shields.io/badge/CSS_Animation-7C3AED?style=flat-square&logo=css3&logoColor=white" alt="CSS Animation"/>
-        <img src="https://img.shields.io/badge/Flexbox-1D4ED8?style=flat-square&logo=css3&logoColor=white" alt="Flexbox"/>
-        <img src="https://img.shields.io/badge/CSS_Grid-0EA5E9?style=flat-square&logo=css3&logoColor=white" alt="CSS Grid"/>
-        <img src="https://img.shields.io/badge/DOM_Manipulation-F97316?style=flat-square&logo=javascript&logoColor=white" alt="DOM"/>
-        <img src="https://img.shields.io/badge/Fetch_API-22C55E?style=flat-square&logo=javascript&logoColor=white" alt="Fetch API"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/Framer_Motion-8100FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
+        <img src="https://img.shields.io/badge/Glassmorphism-0EA5E9?style=flat-square&logo=css3&logoColor=white" alt="Glassmorphism"/>
       </td>
     </tr>
     <tr>
-      <td width="22%" valign="top" align="left"><strong>Backend & Runtime</strong></td>
+      <td width="22%" valign="top" align="left"><strong>Backend & DB</strong></td>
       <td valign="top" align="left">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express"/>
-        <img src="https://img.shields.io/badge/REST_API-0EA5E9?style=flat-square&logo=fastapi&logoColor=white" alt="REST API"/>
-        <img src="https://img.shields.io/badge/WhatsApp_Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WA Bot"/>
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="22%" valign="top" align="left"><strong>Database & Storage</strong></td>
-      <td valign="top" align="left">
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/LocalStorage-F59E0B?style=flat-square&logo=javascript&logoColor=white" alt="LocalStorage"/>
+        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" alt="Gemini AI"/>
       </td>
     </tr>
     <tr>
@@ -119,16 +108,6 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
         <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
-        <img src="https://img.shields.io/badge/GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Pages"/>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="22%" valign="top" align="left"><strong>OS & Environment</strong></td>
-      <td valign="top" align="left">
-        <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="Windows"/>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111827" alt="Linux"/>
-        <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm"/>
         <img src="https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white" alt="PM2"/>
       </td>
     </tr>
@@ -143,56 +122,56 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
   <table>
     <tr>
       <td width="50%" valign="top">
-        <strong>🎵 Musik Nexsus</strong><br/>
-        <sub>TypeScript • Web Player • Audio API • Modern UI</sub>
+        <strong>ðŸŽµ Musik Nexsus</strong><br/>
+        <sub>TypeScript â€¢ Web Player â€¢ Audio API â€¢ Modern UI</sub>
         <br/><br/>
         Aplikasi music player berbasis web dengan antarmuka modern. Mendukung pemutaran audio, kontrol playlist, dan tampilan yang responsif dengan desain yang elegan.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999/Musik-Nexsus">→ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/Musik-Nexsus">â†’ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
-        <strong>🌐 Portfolio Website</strong><br/>
-        <sub>HTML • CSS • JavaScript • GitHub Pages</sub>
+        <strong>ðŸŒ Portfolio Website</strong><br/>
+        <sub>Next.js â€¢ TypeScript â€¢ Supabase â€¢ GitHub Pages</sub>
         <br/><br/>
-        Website portofolio personal yang menampilkan profil, skill, dan proyek-proyek yang telah dikerjakan. Deployed secara live di GitHub Pages.
+        Website portofolio personal bergaya OS futuristik yang menampilkan profil, skill, dan proyek. Deployed secara live.
         <br/><br/>
-        <a href="https://rijalulfikri.github.io">→ Lihat Live</a>
+        <a href="https://www.rijalulfikri.my.id/">â†’ Lihat Live</a>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <strong>⏱️ Pomodoro Timer</strong><br/>
-        <sub>TypeScript • Timer App • Productivity Tool</sub>
+        <strong>â±ï¸ Pomodoro Timer</strong><br/>
+        <sub>TypeScript â€¢ Timer App â€¢ Productivity Tool</sub>
         <br/><br/>
         Aplikasi Pomodoro timer untuk meningkatkan produktivitas kerja. Dilengkapi dengan sesi kerja, istirahat pendek, dan istirahat panjang yang dapat dikustomisasi.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999/pomodoro">→ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/pomodoro">â†’ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
-        <strong>🤖 Neng Fika (WA Bot)</strong><br/>
-        <sub>Node.js • Gemini AI • Supabase • WhatsApp</sub>
+        <strong>ðŸ¤– Neng Fika (WA Bot)</strong><br/>
+        <sub>Node.js â€¢ Gemini AI â€¢ Supabase â€¢ WhatsApp</sub>
         <br/><br/>
         Bot WhatsApp berbasis AI dengan persona unik. Mampu berkomunikasi natural, menjawab pertanyaan, dan mendukung sistem pelatihan mandiri oleh admin.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999">→ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/WA_boot">â†’ Lihat Repository</a>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <strong>📸 Photo Booth Web</strong><br/>
-        <sub>HTML • CSS • JavaScript • Camera API</sub>
+        <strong>ðŸ“¸ Photo Booth Web</strong><br/>
+        <sub>HTML â€¢ CSS â€¢ JavaScript â€¢ Camera API</sub>
         <br/><br/>
         Aplikasi photo booth berbasis web yang memanfaatkan kamera browser. Mendukung pengambilan foto langsung dan berbagai tampilan frame yang menarik.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999/Photo-Booth-Web">→ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/Photo-Booth-Web">â†’ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
-        <strong>📊 Web Laporan Kerja</strong><br/>
-        <sub>HTML • CSS • JavaScript • Dashboard</sub>
+        <strong>ðŸ“Š Web Laporan Kerja</strong><br/>
+        <sub>HTML â€¢ CSS â€¢ JavaScript â€¢ Dashboard</sub>
         <br/><br/>
         Aplikasi web untuk melihat dan mengelola laporan pekerjaan. Dirancang dengan tampilan yang bersih dan mudah digunakan untuk monitoring data pekerjaan.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999/web_laporan_kerja">→ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/web_laporan_kerja">â†’ Lihat Repository</a>
       </td>
     </tr>
   </table>
@@ -228,13 +207,13 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <a href="https://rijalulfikri.github.io">
-          <img src="https://img.shields.io/badge/🌐%20Portfolio-rijalulfikri.github.io-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Portfolio" width="100%"/>
+        <a href="https://www.rijalulfikri.my.id/">
+          <img src="https://img.shields.io/badge/ðŸŒ%20Portfolio-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Portfolio" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/qwerty0999999">
-          <img src="https://img.shields.io/badge/🐙%20GitHub-Follow%20Me-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
+          <img src="https://img.shields.io/badge/ðŸ™%20GitHub-Follow%20Me-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
         </a>
       </td>
     </tr>
