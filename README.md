@@ -17,11 +17,8 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/Lokasi-Indonesia-22c55e?style=for-the-badge&labelColor=0f172a" alt="Lokasi" width="100%"/>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://komarev.com/ghpvc/?username=qwerty0999999&style=for-the-badge&color=60a5fa&label=Profile+Views&labelColor=0f172a" alt="Profile Views" width="100%"/>
+      <td width="100%" align="center" colspan="2">
+        <img src="https://img.shields.io/badge/Lokasi-Indonesia-22c55e?style=for-the-badge&labelColor=0f172a" alt="Lokasi" width="50%"/>
       </td>
     </tr>
   </table>
