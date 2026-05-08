@@ -7,18 +7,18 @@
     <tr>
       <td width="50%" align="center">
         <a href="https://www.rijalulfikri.my.id/">
-          <img src="https://img.shields.io/badge/ðŸŒ%20Website-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Website" width="100%"/>
+          <img src="https://img.shields.io/badge/🌐%20Website-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Website" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/qwerty0999999">
-          <img src="https://img.shields.io/badge/ðŸ™%20GitHub-qwerty0999999-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
+          <img src="https://img.shields.io/badge/🐙%20GitHub-qwerty0999999-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <img src="https://img.shields.io/badge/ðŸ“%20Lokasi-Indonesia%20ðŸ‡®ðŸ‡©-22c55e?style=for-the-badge&labelColor=0f172a" alt="Lokasi" width="100%"/>
+        <img src="https://img.shields.io/badge/📍%20Lokasi-Indonesia%20🇮🇩-22c55e?style=for-the-badge&labelColor=0f172a" alt="Lokasi" width="100%"/>
       </td>
       <td width="50%" align="center">
         <img src="https://komarev.com/ghpvc/?username=qwerty0999999&style=for-the-badge&color=60a5fa&label=Profile+Views&labelColor=0f172a" alt="Profile Views" width="100%"/>
@@ -46,19 +46,19 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
     <tr>
       <td width="33.33%" valign="top">
         <strong>Frontend Development</strong><br/>
-        <sub>HTML5 â€¢ CSS3 â€¢ JavaScript â€¢ TypeScript â€¢ Responsive Design</sub>
+        <sub>HTML5 • CSS3 • JavaScript • TypeScript • Responsive Design</sub>
         <br/><br/>
-        Membangun tampilan web yang menarik, responsif, dan ramah pengguna â€” dari struktur HTML yang semantik hingga animasi CSS dan interaksi JavaScript yang halus.
+        Membangun tampilan web yang menarik, responsif, dan ramah pengguna — dari struktur HTML yang semantik hingga animasi CSS dan interaksi JavaScript yang halus.
       </td>
       <td width="33.33%" valign="top">
         <strong>Web Application</strong><br/>
-        <sub>Vanilla JS â€¢ DOM Manipulation â€¢ LocalStorage â€¢ Fetch API â€¢ REST</sub>
+        <sub>Vanilla JS • DOM Manipulation • LocalStorage • Fetch API • REST</sub>
         <br/><br/>
         Membuat aplikasi web interaktif seperti music player, pomodoro timer, photo booth, dan dashboard berbasis web yang fungsional dan menyenangkan digunakan.
       </td>
       <td width="33.33%" valign="top">
         <strong>Bot & Automation</strong><br/>
-        <sub>Node.js â€¢ WhatsApp Bot â€¢ AI Integration â€¢ Supabase â€¢ Gemini API</sub>
+        <sub>Node.js • WhatsApp Bot • AI Integration • Supabase • Gemini API</sub>
         <br/><br/>
         Mengembangkan bot WhatsApp berbasis AI yang mampu berkomunikasi natural, menjawab pertanyaan, dan menjalankan perintah administratif secara otomatis.
       </td>
@@ -122,56 +122,56 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
   <table>
     <tr>
       <td width="50%" valign="top">
-        <strong>ðŸŽµ Musik Nexsus</strong><br/>
-        <sub>TypeScript â€¢ Web Player â€¢ Audio API â€¢ Modern UI</sub>
+        <strong>🎵 Musik Nexsus</strong><br/>
+        <sub>TypeScript • Web Player • Audio API • Modern UI</sub>
         <br/><br/>
         Aplikasi music player berbasis web dengan antarmuka modern. Mendukung pemutaran audio, kontrol playlist, dan tampilan yang responsif dengan desain yang elegan.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999/Musik-Nexsus">â†’ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/Musik-Nexsus">→ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
-        <strong>ðŸŒ Portfolio Website</strong><br/>
-        <sub>Next.js â€¢ TypeScript â€¢ Supabase â€¢ GitHub Pages</sub>
+        <strong>🌐 Portfolio Website</strong><br/>
+        <sub>Next.js • TypeScript • Supabase • GitHub Pages</sub>
         <br/><br/>
         Website portofolio personal bergaya OS futuristik yang menampilkan profil, skill, dan proyek. Deployed secara live.
         <br/><br/>
-        <a href="https://www.rijalulfikri.my.id/">â†’ Lihat Live</a>
+        <a href="https://www.rijalulfikri.my.id/">→ Lihat Live</a>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <strong>â±ï¸ Pomodoro Timer</strong><br/>
-        <sub>TypeScript â€¢ Timer App â€¢ Productivity Tool</sub>
+        <strong>⏱️ Pomodoro Timer</strong><br/>
+        <sub>TypeScript • Timer App • Productivity Tool</sub>
         <br/><br/>
         Aplikasi Pomodoro timer untuk meningkatkan produktivitas kerja. Dilengkapi dengan sesi kerja, istirahat pendek, dan istirahat panjang yang dapat dikustomisasi.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999/pomodoro">â†’ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/pomodoro">→ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
-        <strong>ðŸ¤– Neng Fika (WA Bot)</strong><br/>
-        <sub>Node.js â€¢ Gemini AI â€¢ Supabase â€¢ WhatsApp</sub>
+        <strong>🤖 Neng Fika (WA Bot)</strong><br/>
+        <sub>Node.js • Gemini AI • Supabase • WhatsApp</sub>
         <br/><br/>
         Bot WhatsApp berbasis AI dengan persona unik. Mampu berkomunikasi natural, menjawab pertanyaan, dan mendukung sistem pelatihan mandiri oleh admin.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999/WA_boot">â†’ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/WA_boot">→ Lihat Repository</a>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <strong>ðŸ“¸ Photo Booth Web</strong><br/>
-        <sub>HTML â€¢ CSS â€¢ JavaScript â€¢ Camera API</sub>
+        <strong>📸 Photo Booth Web</strong><br/>
+        <sub>HTML • CSS • JavaScript • Camera API</sub>
         <br/><br/>
         Aplikasi photo booth berbasis web yang memanfaatkan kamera browser. Mendukung pengambilan foto langsung dan berbagai tampilan frame yang menarik.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999/Photo-Booth-Web">â†’ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/Photo-Booth-Web">→ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
-        <strong>ðŸ“Š Web Laporan Kerja</strong><br/>
-        <sub>HTML â€¢ CSS â€¢ JavaScript â€¢ Dashboard</sub>
+        <strong>📊 Web Laporan Kerja</strong><br/>
+        <sub>HTML • CSS • JavaScript • Dashboard</sub>
         <br/><br/>
         Aplikasi web untuk melihat dan mengelola laporan pekerjaan. Dirancang dengan tampilan yang bersih dan mudah digunakan untuk monitoring data pekerjaan.
         <br/><br/>
-        <a href="https://github.com/qwerty0999999/web_laporan_kerja">â†’ Lihat Repository</a>
+        <a href="https://github.com/qwerty0999999/web_laporan_kerja">→ Lihat Repository</a>
       </td>
     </tr>
   </table>
@@ -208,12 +208,12 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
     <tr>
       <td width="50%" align="center">
         <a href="https://www.rijalulfikri.my.id/">
-          <img src="https://img.shields.io/badge/ðŸŒ%20Portfolio-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Portfolio" width="100%"/>
+          <img src="https://img.shields.io/badge/🌐%20Portfolio-rijalulfikri.my.id-38bdf8?style=for-the-badge&labelColor=0f172a" alt="Portfolio" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/qwerty0999999">
-          <img src="https://img.shields.io/badge/ðŸ™%20GitHub-Follow%20Me-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
+          <img src="https://img.shields.io/badge/🐙%20GitHub-Follow%20Me-f97316?style=for-the-badge&labelColor=0f172a" alt="GitHub" width="100%"/>
         </a>
       </td>
     </tr>
