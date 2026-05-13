@@ -220,5 +220,5 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24,20,12&section=footer" width="100%"/>
+  <img src="https://capsule-render.ver cel.app/api?type=waving&height=120&color=gradient&customColorList=24,20,12&section=footer" width="100%"/>
 </div>
