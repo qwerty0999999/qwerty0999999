@@ -183,17 +183,31 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
   <img src="https://img.shields.io/github/stars/qwerty0999999?style=for-the-badge&logo=github&label=Total%20Stars&color=f59e0b&labelColor=0f172a" alt="GitHub Stars" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qwerty0999999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=qwerty0999999&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9" width="49%" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty0999999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8" width="50%" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=qwerty0999999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=qwerty0999999&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td width="100%" align="center" colspan="2">
+        <br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty0999999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8" width="60%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwerty0999999&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity&include_all_commits=true" width="98%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwerty0999999&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity&include_all_commits=true" width="100%" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -220,5 +234,5 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.ver cel.app/api?type=waving&height=120&color=gradient&customColorList=24,20,12&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=24,20,12&section=footer" width="100%"/>
 </div>
