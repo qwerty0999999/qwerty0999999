@@ -189,16 +189,16 @@ Fokus saya adalah terus berkembang, mempelajari teknologi baru, dan menghasilkan
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=qwerty0999999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=qwerty0999999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=94a3b8" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=qwerty0999999&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=qwerty0999999&theme=tokyonight&hide_border=true&background=0d1117&stroke=0ea5e9&ring=0ea5e9&fire=f97316&currStreakLabel=0ea5e9" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td width="100%" align="center" colspan="2">
         <br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty0999999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8" width="60%" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty0999999&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=94a3b8&langs_count=8" width="60%" alt="Top Languages" />
       </td>
     </tr>
   </table>
