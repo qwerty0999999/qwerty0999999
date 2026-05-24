@@ -150,20 +150,28 @@ Saya terbiasa membangun mulai dari **landing page sederhana**, **web application
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qwerty0999999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=qwerty0999999&theme=tokyonight&hide_border=true" width="48%" />
+  <table>
+    <tr>
+      <td valign="top" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=qwerty0999999&theme=tokyonight&hide_border=true&show_icons=true" alt="GitHub Stats" />
+      </td>
+      <td valign="top" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=qwerty0999999&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty0999999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qwerty0999999&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwerty0999999&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity&include_all_commits=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qwerty0999999&bg_color=0d1117&color=0ea5e9&line=0ea5e9&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
