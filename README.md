@@ -53,7 +53,7 @@ Saya terbiasa membangun mulai dari **landing page sederhana**, **web application
       </td>
       <td width="33.33%" valign="top">
         <strong>Bot & Automation</strong><br/>
-        <sub>Node.js • WhatsApp Bot • AI Integration • Supabase • GemiNi API</sub>
+        <sub>Node.js • WhatsApp Bot • AI Integration • Supabase • Gemini API</sub>
         <br/><br/>
         Mengembangkan bot WhatsApp berbasis AI yang mampu berkomunikasi natural, menjawab pertanyaan, dan menjalankan perintah administratif secara otomatis.
       </td>
