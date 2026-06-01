@@ -28,7 +28,7 @@
 
 ## Professional Summary
 
-Web Developer dengan semAngat tinggi dalam membangun antarmuka pengguna yang **modern, responsif, dan fungsional**. Berfokus pada pengembangan aplikasi web berbasis **HTML, CSS, JavaScript, dan TypeScript** yang tidak hanya bekerja dengan baik, tetapi juga terlihat menarik dan memberikan pengalaman pengguna terbaik.
+Web Developer dengan semangat tinggi dalam membangun antarmuka pengguna yang **modern, responsif, dan fungsional**. Berfokus pada pengembangan aplikasi web berbasis **HTML, CSS, JavaScript, dan TypeScript** yang tidak hanya bekerja dengan baik, tetapi juga terlihat menarik dan memberikan pengalaman pengguna terbaik.
 
 Saya terbiasa membangun mulai dari **landing page sederhana**, **web application interaktif**, hingga **bot automation berbasis Node.js**. Dengan pendekatan yang berpusat pada detail dan estetika, setiap proyek yang saya kerjakan selalu memiliki keseimbangan antara **fungsionalitas** dan **visual yang solid**.
 
