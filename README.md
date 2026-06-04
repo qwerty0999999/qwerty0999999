@@ -26,7 +26,7 @@
 
 ---
 
-## Professional SummarY
+## Professional Summary
 
 Web Developer dengan semangat tinggi dalam membangun antarmuka pengguna yang **modern, responsif, dan fungsional**. Berfokus pada pengembangan aplikasi web berbasis **HTML, CSS, JavaScript, dan TypeScript** yang tidak hanya bekerja dengan baik, tetapi juga terlihat menarik dan memberikan pengalaman pengguna terbaik.
 
