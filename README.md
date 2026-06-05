@@ -110,7 +110,7 @@ Saya terbiasa membangun mulai dari **landing page sederhana**, **web application
     <tr>
       <td width="50%" valign="top">
         <strong>Musik Nexsus</strong><br/>
-        <sub>TypeScript • Web Player • Audio 123456789API</sub><br/>
+        <sub>TypeScript • Web Player • Audio API </sub><br/>
         Aplikasi music player modern dengan kontrol playlist dan desain elegan.<br/>
         <a href="https://github.com/qwerty0999999/Musik-Nexsus">→ Lihat Repository</a>
       </td>
