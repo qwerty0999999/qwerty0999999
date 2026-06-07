@@ -35,7 +35,6 @@ Saya terbiasa membangun mulai dari **landing page sederhana**, **web application
 ---
 
 ## Core Expertise
-0000000000000000000000000000000
 
 <div align="center">
   <table>
