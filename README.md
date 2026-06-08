@@ -63,7 +63,8 @@ Saya terbiasa membangun mulai dari **landing page sederhana**, **web application
 
 ---
 
-## Technology Stack/
+## Technology Stack//////////////
+///////////////////
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,css,nodejs,supabase,postgres,git,github,vscode,vercel,figma" alt="Tech Stack" />
