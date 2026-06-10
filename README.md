@@ -1,6 +1,4 @@
-Berikut adalah struktur profil GitHub Anda yang telah diperbarui dan disesuaikan agar sama persis dengan referensi yang Anda inginkan (seperti milik Arif Budianto), namun dengan **data, keahlian, dan portofolio asli milik Anda** sebagai Network Engineer dan Web Developer:
-
-```markdown
+Markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=220&section=header&text=Rijalul%20Fikri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Network%20Engineer%20%7C%20Web%20Developer%20%7C%20System%20Architecture&descAlignY=65&descSize=18" width="100%"/>
 </div>
@@ -311,5 +309,3 @@ Saya juga terbiasa mengelola *environment* server mandiri (Home Lab) menggunakan
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,20,12&section=footer" width="100%"/>
 </div>
-
-```
