@@ -37,7 +37,7 @@ Markdown
 
 ## Professional Summary
 
-Network Engineer, Web Developer, dan Programmer dengan rekam jejak profesional di bidang infrastruktur teknologi dan pengembangan perangkat lunak modern. Memiliki latar belakang kuat dari Teknik Komputer dan Jaringan (TKJ) hingga pengalaman operasional sebagai Teknisi di PT. Filltech Pagar Nusa, saya terbiasa menjembatani kebutuhan antara **stabilitas infrastruktur jaringan** dan **inovasi antarmuka digital** yang responsif dan memukau.
+Network Engineer, Web Developer, dan Programmer dengan rekam jejak profesional di bidang infrastruktur teknologi dan pengembangan perangkat lunak modern. Memiliki latar belakang kuat dari Teknik Komputer dan Jaringan (TKJ) hingga pengalaman operasional sebagai Teknisi di salah satu ISP, saya terbiasa menjembatani kebutuhan antara **stabilitas infrastruktur jaringan** dan **inovasi antarmuka digital** yang responsif dan memukau.
 
 Keahlian utama saya mencakup **arsitektur dan administrasi jaringan** (Cisco, MikroTik, Routing Protocols), **pengembangan aplikasi web berbasis Next.js dan Tailwind CSS**, serta otomatisasi sistem cerdas melalui **Node.js dan integrasi AI** untuk platform Discord dan WhatsApp. Dengan pendekatan desain berestetika *dark luxury* dan *immersive*, setiap proyek web yang saya kerjakan dirancang untuk memberikan pengalaman pengguna tingkat tinggi tanpa mengorbankan performa.
 
