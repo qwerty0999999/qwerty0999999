@@ -261,7 +261,7 @@ Saya juga terbiasa mengelola *environment* server mandiri (Home Lab) menggunakan
         <strong>Bot Development & AI Integration</strong><br/>
         <sub>Node.js • Gemini AI • Discord/WA Bot • Supabase</sub>
         <br/><br/>
-        Pengembangan bot otomatisasi untuk operasional komunitas atau layanan pelanggan yang terintegrasi langsung dengan database dan kecerdasan buatan.
+        Pengembangan bot otomatisasi untuk operasional komunitas atau layanan pelanggan yang terintegrasi langsung dengan database dan kecerdasan buatan.xxxxxxx
       </td>
       <td width="50%" valign="top">
         <strong>Server Virtualization & Home Lab Setup</strong><br/>
