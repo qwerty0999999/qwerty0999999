@@ -7,7 +7,7 @@ Markdown
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <a href="https://www.rijalulfikri.my.id/">
+        <a href="https://www.rijalulfikri.may.id/">
           <img src="https://img.shields.io/badge/Website-rijalulfikri.my.id-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Website" width="100%"/>
         </a>
       </td>
