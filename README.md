@@ -35,7 +35,7 @@ Markdown
 
 ---
 
-## Professional Summaryj
+## Professional Summary
 
 Network Engineer, Web Developer, dan Programmer dengan rekam jejak profesional di bidang infrastruktur teknologi dan pengembangan perangkat lunak modern. Memiliki latar belakang kuat dari Teknik Komputer dan Jaringan (TKJ) hingga pengalaman operasional sebagai Teknisi di salah satu ISP, saya terbiasa menjembatani kebutuhan antara **stabilitas infrastruktur jaringan** dan **inovasi antarmuka digital** yang responsif dan memukau.
 
