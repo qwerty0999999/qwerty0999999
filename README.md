@@ -309,3 +309,4 @@ Saya juga terbiasa mengelola *environment* server mandiri (Home Lab) menggunakan
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,20,12&section=footer" width="100%"/>
 </div>
+9oooo
