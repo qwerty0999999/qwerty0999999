@@ -1,6 +1,6 @@
 Markdown
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=220&section=header&text=Rijalul%20Fikri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Network%20Engineer%20%7C%20Web%20Developer%20%7C%20System%20Architecture&descAlignY=65&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,12&height=220&section=header&text=Rijalul%20Fikri&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Network%20Engineer%20%7C%20Web%20Developer%20%7C%20System%20Architect&descAlignY=65&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -309,4 +309,3 @@ Saya juga terbiasa mengelola *environment* server mandiri (Home Lab) menggunakan
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24,20,12&section=footer" width="100%"/>
 </div>
-bbb
