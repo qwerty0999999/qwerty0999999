@@ -6,7 +6,7 @@
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <a href="https://www.rijalulfikri.my.id/">
+        <a href="https://www.rijalulfikri.my.id/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Website-rijalulfikri.my.id-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Website" width="100%"/>
         </a>
       </td>
@@ -18,12 +18,12 @@
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/qwerty0999999">
+        <a href="https://github.com/qwerty0999999" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/GitHub-qwerty0999999-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://www.linkedin.com/">
+        <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-60a5fa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" width="100%"/>
         </a>
       </td>
@@ -171,7 +171,7 @@ Saya juga terbiasa mengelola *environment* server mandiri (Home Lab) menggunakan
         <sub>Next.js • TypeScript • Tailwind CSS • Audio API</sub>
         <br/><br/>
         Platform streaming musik dengan estetika <em>dark luxury</em>, kontrol playlist terintegrasi, dokumentasi teknis mendalam, dan API audio modern.
-        <br/><a href="https://github.com/qwerty0999999/Musik-Nexsus">→ Lihat Repository</a>
+        <br/><a href="https://github.com/qwerty0999999/Musik-Nexsus" target="_blank" rel="noopener noreferrer">→ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
         <strong>RF Digital Solution & Jokitugasku</strong><br/>
@@ -186,7 +186,7 @@ Saya juga terbiasa mengelola *environment* server mandiri (Home Lab) menggunakan
         <sub>Node.js • Gemini AI • Supabase • WhatsApp/Discord API</sub>
         <br/><br/>
         Sistem otomasi bot dengan persona cerdas yang mampu mengelola <em>room</em>, merespons pesan secara mandiri menggunakan LLM, dan menjalankan administrasi data.
-        <br/><a href="https://github.com/qwerty0999999/WA_boot">→ Lihat Repository</a>
+        <br/><a href="https://github.com/qwerty0999999/WA_boot" target="_blank" rel="noopener noreferrer">→ Lihat Repository</a>
       </td>
       <td width="50%" valign="top">
         <strong>Home Lab Infrastructure</strong><br/>
@@ -280,7 +280,7 @@ Saya juga terbiasa mengelola *environment* server mandiri (Home Lab) menggunakan
   <table width="100%">
     <tr>
       <td width="50%" align="center">
-        <a href="https://www.rijalulfikri.my.id/">
+        <a href="https://www.rijalulfikri.my.id/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Website-rijalulfikri.my.id-38bdf8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0f172a" alt="Website" width="100%"/>
         </a>
       </td>
@@ -292,12 +292,12 @@ Saya juga terbiasa mengelola *environment* server mandiri (Home Lab) menggunakan
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/qwerty0999999">
+        <a href="https://github.com/qwerty0999999" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/GitHub-qwerty0999999-22c55e?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a" alt="GitHub" width="100%"/>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://www.linkedin.com/">
+        <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-60a5fa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a" alt="LinkedIn" width="100%"/>
         </a>
       </td>
